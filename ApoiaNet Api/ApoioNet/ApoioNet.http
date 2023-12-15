@@ -1,0 +1,6 @@
+@ApoioNet_HostAddress = http://localhost:5276
+
+GET {{ApoioNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
